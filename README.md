@@ -1,2 +1,2 @@
 # ReactCalculator
-A calculator build using React
+A calculator built using React
